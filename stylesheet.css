@@ -3,6 +3,7 @@ body{
     padding: none;
     margin: none;
     box-sizing: border-box;
+    background-color: black;
 }
 main {
     display:flex;
