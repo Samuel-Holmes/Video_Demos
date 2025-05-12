@@ -4,6 +4,7 @@ body{
     margin: none;
     box-sizing: border-box;
     background-color: rgb(11, 7, 83);
+    color: rgb(189, 105, 2);
 }
 main {
     display:flex;
