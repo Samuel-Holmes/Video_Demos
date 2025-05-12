@@ -1,0 +1,17 @@
+body{
+    overflow: none;
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+main {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+video{
+    max-width: 70%;
+}
+
